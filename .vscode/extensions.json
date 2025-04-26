@@ -1,0 +1,5 @@
+{
+    "recommendations": [
+      "firsttris.vscode-jest-runner", // Jest 测试运行器
+    ]
+  }

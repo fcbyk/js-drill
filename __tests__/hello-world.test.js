@@ -1,4 +1,4 @@
-const helloWorld = require("../exercises/hello-world");
+const helloWorld = require("../exercises/hello-world.js");
 const testConsoleLog = require("../utils/console-test-utils")
 
 describe("helloWorld", () => {
